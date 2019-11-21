@@ -6,7 +6,7 @@ public class Person1{
 		this.age = age;
 	}
 	public String toString(){
-		return name + "_" +age;
+		return name + "_" +age+"Xin Chao";
 	}	
 
 	public static void main(String[] args){
