@@ -9,8 +9,7 @@ public class Person1{
 <<<<<<< HEAD
 		return name + "_" +age+"Xin Chao Lan 1";
 =======
-		return name + "_" +age+"Xin Chao Lan 2";
->>>>>>> 31aa637b7c8ee15db4f9be1884f0d112c79e0ef0
+
 	}	
 
 	public static void main(String[] args){
