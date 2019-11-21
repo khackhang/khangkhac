@@ -6,10 +6,7 @@ public class Person1{
 		this.age = age;
 	}
 	public String toString(){
-<<<<<<< HEAD
-		return name + "_" +age+"Xin Chao Lan 1";
-=======
-
+		return name + "_" +age+"Xin Chao Lan 100";
 	}	
 
 	public static void main(String[] args){
