@@ -5,11 +5,8 @@ public class Person1{
 		this.name = name;
 		this.age = age;
 	}
-	public String toString(){
-<<<<<<< HEAD
-		return name + "_" +age+"Xin Chao Lan 1";
-=======
-
+	public String toString()
+		return name + "_" +age+"Xin Chao Lan 10";
 	}	
 
 	public static void main(String[] args){
